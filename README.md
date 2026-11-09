@@ -45,7 +45,7 @@ To become a successful Software Engineer.
 
 # Website Preview
 
-![Home Page](images/about.jpg)
+![Home Page](images/IMG_20261109_135735.jpg) 
 
 # Website Preview
 
