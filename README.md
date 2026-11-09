@@ -1,4 +1,3 @@
-# -BCS2026513-Raghav-Day-03-Setup-Practice
 
 # Raghav Mishra - Blog Portfolio Website
 
