@@ -49,6 +49,6 @@ To become a successful Software Engineer.
 
 # Website Preview
 
-![Home Page](images/blog.jpg)
+![Home Page](images/IMG_20261109_135747.jpg)
 
 
