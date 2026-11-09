@@ -41,7 +41,7 @@ To become a successful Software Engineer.
 © 2026 Raghav Mishra. All Rights Reserved.
 ## Website Preview
 
-![Home Page](images/home.jpg)
+![Home Page](images/IMG_20261109_132144.jpg) 
 
 # Website Preview
 
